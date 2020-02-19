@@ -1,2 +1,2 @@
-# Jordan Daynes React Portfolio Project
+# Jordan Daynes React Project
 
